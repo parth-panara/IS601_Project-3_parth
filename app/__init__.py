@@ -13,7 +13,7 @@ from flask_wtf.csrf import CSRFProtect
 
 from app.auth import auth
 from app.auth import auth
-from app.cli import create_database
+from app.cli import create_database, create_log_folder
 from app.context_processors import utility_text_processors
 from app.db import db
 from app.db.models import User
@@ -61,6 +61,8 @@ def create_app():
     db.init_app(app)
     # add command function to cli commands
     app.cli.add_command(create_database)
+    app.cli.add_command(create_log_folder)
+
 
     # Deactivate the default flask logger so that log messages don't get duplicated
     app.logger.removeHandler(default_handler)
@@ -77,9 +79,8 @@ def create_app():
 
     handler = logging.FileHandler(log_file)
     # Create a log file formatter object to create the entry in the log
-    formatter = RequestFormatter(
-        '[%(asctime)s] %(remote_addr)s requested %(url)s\n'
-        '%(levelname)s in %(module)s: %(message)s'
+    formatter = RequestFormatter('%(levelname)s,%(asctime)s,%(module)s,%(message)s,%(remote_addr)s,%(url)s'
+
     )
     # set the formatter for the log entry
     handler.setFormatter(formatter)
@@ -100,41 +101,8 @@ def create_app():
             return response
         elif request.path.startswith('/bootstrap'):
             return response
-
-        now = time.time()
-        duration = round(now - g.start, 2)
-        dt = datetime.datetime.fromtimestamp(now)
-        timestamp = rfc3339(dt, utc=True)
-
-        ip = request.headers.get('X-Forwarded-For', request.remote_addr)
-        host = request.host.split(':', 1)[0]
-        args = dict(request.args)
-
-        log_params = [
-            ('method', request.method),
-            ('path', request.path),
-            ('status', response.status_code),
-            ('duration', duration),
-            ('time', timestamp),
-            ('ip', ip),
-            ('host', host),
-            ('params', args)
-        ]
-
-        request_id = request.headers.get('X-Request-ID')
-        if request_id:
-            log_params.append(('request_id', request_id))
-
-        parts = []
-        for name, value in log_params:
-            part = name + ': ' + str(value) + ', '
-            parts.append(part)
-        line = " ".join(parts)
-        #this triggers a log entry to be created with whatever is in the line variable
-        app.logger.info('this is the plain message')
-
+        app.logger.info('none')
         return response
-
     return app
 
 

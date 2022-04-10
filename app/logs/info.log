@@ -1,0 +1,433 @@
+[2022-04-09 06:52:22,971] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:30,709] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:31,659] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:35,638] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:50,257] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:51,713] 172.21.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:55,987] 172.21.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:56,756] 172.21.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:57,932] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:58,654] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 06:52:59,202] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:05,164] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:05,974] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:07,677] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:08,237] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:08,619] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:09,807] 172.21.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:10,328] 172.21.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:11,476] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:43,506] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:44,088] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:44,903] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:45,562] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 06:54:45,977] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:41,921] 172.21.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:42,712] 172.21.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:43,704] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:44,599] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:45,277] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:45,893] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:46,288] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:46,653] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:46,999] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:48,059] 172.21.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-09 06:55:48,621] 172.21.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-09 20:40:21,630] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 20:40:23,341] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-09 20:59:04,527] 172.21.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-09 20:59:08,131] 172.21.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-09 21:00:02,619] 172.21.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-09 21:00:02,733] 172.21.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-09 21:00:30,375] 172.21.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-09 21:00:30,607] 172.21.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+[2022-04-09 21:00:39,184] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 21:00:40,226] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-09 21:00:41,062] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-09 21:00:41,759] 172.21.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+INFO, this is the plain message
+INFO, this is the plain message
+INFO, this is the plain message
+INFO, method: GET,  path: /about,  status: 200,  duration: 0.29,  time: 2022-04-09T21:33:50Z,  ip: 172.21.0.1,  host: localhost,  params: {}, 
+INFO, GET, method: GET,  path: /welcome,  status: 200,  duration: 0.39,  time: 2022-04-09T21:39:38Z,  ip: 172.21.0.1,  host: localhost,  params: {}, 
+INFO, GET, method: GET,  path: /about,  status: 200,  duration: 0.38,  time: 2022-04-09T21:49:29Z,  ip: 172.21.0.1,  host: localhost,  params: {}, 
+INFO, GET, method: GET,  path: /welcome,  status: 200,  duration: 0.08,  time: 2022-04-09T21:49:37Z,  ip: 172.21.0.1,  host: localhost,  params: {}, 
+INFO, GET, /dashboard, method: GET,  path: /dashboard,  status: 200,  duration: 0.64,  time: 2022-04-09T21:57:10Z,  ip: 172.21.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /dashboard, method: GET,  path: /dashboard,  status: 302,  duration: 0.0,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /dashboard, method: GET,  path: /dashboard,  status: 302,  duration: 0.0,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /register, method: GET,  path: /register,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /register, method: GET,  path: /register,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /login, method: GET,  path: /login,  status: 200,  duration: 0.01,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /login, method: GET,  path: /login,  status: 200,  duration: 0.01,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.23,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.23,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.23,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:31:04Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.18,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.18,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.18,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.18,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.18,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.18,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.19,  time: 2022-04-10T05:31:05Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.32,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.32,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.32,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.32,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.32,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.32,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.32,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.32,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.32,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.19,  time: 2022-04-10T05:31:06Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.27,  time: 2022-04-10T05:34:25Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /dashboard, method: GET,  path: /dashboard,  status: 302,  duration: 0.0,  time: 2022-04-10T05:34:25Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /dashboard, method: GET,  path: /dashboard,  status: 302,  duration: 0.0,  time: 2022-04-10T05:34:25Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /register, method: GET,  path: /register,  status: 200,  duration: 0.22,  time: 2022-04-10T05:34:25Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /register, method: GET,  path: /register,  status: 200,  duration: 0.22,  time: 2022-04-10T05:34:25Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /login, method: GET,  path: /login,  status: 200,  duration: 0.01,  time: 2022-04-10T05:34:25Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /login, method: GET,  path: /login,  status: 200,  duration: 0.01,  time: 2022-04-10T05:34:25Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.22,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.22,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.22,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.22,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.2,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /, method: GET,  path: /,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:26Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /about, method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /welcome, method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+INFO, GET, /page5, method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-10T05:34:27Z,  ip: 127.0.0.1,  host: localhost,  params: {}, 
+[2022-04-10 19:17:18,041] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-10 19:17:20,660] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-10 19:18:32,367] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-10 19:47:52,183] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-10 19:47:53,948] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-10 19:49:50,669] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-10 19:50:00,068] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-10 19:52:14,778] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-10 20:07:13,416] 172.21.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-10 20:08:35,457] 172.21.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-10 20:10:47,636] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-10 20:21:24,291] 172.21.0.1 requested http://localhost/about
+INFO in __init__: none
+[2022-04-10 20:21:52,925] 172.21.0.1 requested http://localhost/
+INFO in __init__: none
+[2022-04-10 20:24:16,100] 172.21.0.1 requested http://localhost/about
+INFO in __init__: none
+[2022-04-10 20:25:34,042] 172.21.0.1 requested http://localhost/about
+INFO in __init__: none
+[2022-04-10 20:26:04,700] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: none
+[2022-04-10 20:26:18,122] 172.21.0.1 requested http://localhost/register
+INFO in __init__: none
+[2022-04-10 20:31:52,909] 172.21.0.1 requested http://localhost/welcome
+INFO in __init__: none
+[2022-04-10 20:45:21,993] 172.21.0.1 requested http://localhost/about
+INFO in __init__: none
+INFO,2022-04-10 20:56:38,727,__init__,none,172.21.0.1,http://localhost/welcome
+INFO,2022-04-10 21:05:02,923,__init__,none,172.21.0.1,http://localhost/about
+INFO,2022-04-10 21:05:43,309,__init__,none,172.21.0.1,http://localhost/
+INFO,2022-04-10 21:10:44,361,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:44,405,__init__,none,127.0.0.1,http://localhost/dashboard
+INFO,2022-04-10 21:10:44,405,__init__,none,127.0.0.1,http://localhost/dashboard
+INFO,2022-04-10 21:10:44,799,__init__,none,127.0.0.1,http://localhost/register
+INFO,2022-04-10 21:10:44,799,__init__,none,127.0.0.1,http://localhost/register
+INFO,2022-04-10 21:10:44,839,__init__,none,127.0.0.1,http://localhost/login
+INFO,2022-04-10 21:10:44,839,__init__,none,127.0.0.1,http://localhost/login
+INFO,2022-04-10 21:10:45,441,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:45,441,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:45,441,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:45,823,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:45,823,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:45,823,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:45,823,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,080,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,080,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,080,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,080,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,080,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,379,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,379,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,379,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,379,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,379,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,379,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,657,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,657,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,657,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,657,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,657,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,657,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,657,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:10:46,942,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:10:46,942,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:10:46,942,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:10:46,942,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:10:46,942,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:10:46,942,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:10:46,942,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:10:46,942,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:10:47,285,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:10:47,285,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:10:47,285,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:10:47,285,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:10:47,285,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:10:47,285,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:10:47,285,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:10:47,285,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:10:47,285,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:10:47,539,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:32,570,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:32,596,__init__,none,127.0.0.1,http://localhost/dashboard
+INFO,2022-04-10 21:11:32,596,__init__,none,127.0.0.1,http://localhost/dashboard
+INFO,2022-04-10 21:11:32,885,__init__,none,127.0.0.1,http://localhost/register
+INFO,2022-04-10 21:11:32,885,__init__,none,127.0.0.1,http://localhost/register
+INFO,2022-04-10 21:11:32,907,__init__,none,127.0.0.1,http://localhost/login
+INFO,2022-04-10 21:11:32,907,__init__,none,127.0.0.1,http://localhost/login
+INFO,2022-04-10 21:11:33,226,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,226,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,226,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,498,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,498,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,498,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,498,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,848,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,848,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,848,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,848,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:33,848,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,390,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,390,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,390,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,390,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,390,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,390,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,687,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,687,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,687,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,687,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,687,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,687,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,687,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:11:34,957,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:11:34,957,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:11:34,957,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:11:34,957,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:11:34,957,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:11:34,957,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:11:34,957,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:11:34,957,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:11:35,303,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:11:35,303,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:11:35,303,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:11:35,303,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:11:35,303,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:11:35,303,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:11:35,303,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:11:35,303,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:11:35,303,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:11:35,583,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:34,911,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:34,940,__init__,none,127.0.0.1,http://localhost/dashboard
+INFO,2022-04-10 21:13:34,940,__init__,none,127.0.0.1,http://localhost/dashboard
+INFO,2022-04-10 21:13:35,327,__init__,none,127.0.0.1,http://localhost/register
+INFO,2022-04-10 21:13:35,327,__init__,none,127.0.0.1,http://localhost/register
+INFO,2022-04-10 21:13:35,348,__init__,none,127.0.0.1,http://localhost/login
+INFO,2022-04-10 21:13:35,348,__init__,none,127.0.0.1,http://localhost/login
+INFO,2022-04-10 21:13:35,859,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:35,859,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:35,859,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,187,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,187,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,187,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,187,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,588,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,588,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,588,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,588,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,588,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,868,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,868,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,868,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,868,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,868,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:36,868,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:37,132,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:37,132,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:37,132,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:37,132,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:37,132,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:37,132,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:37,132,__init__,none,127.0.0.1,http://localhost/
+INFO,2022-04-10 21:13:37,401,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:13:37,401,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:13:37,401,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:13:37,401,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:13:37,401,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:13:37,401,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:13:37,401,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:13:37,401,__init__,none,127.0.0.1,http://localhost/about
+INFO,2022-04-10 21:13:37,724,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:13:37,724,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:13:37,724,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:13:37,724,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:13:37,724,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:13:37,724,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:13:37,724,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:13:37,724,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:13:37,724,__init__,none,127.0.0.1,http://localhost/welcome
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5
+INFO,2022-04-10 21:13:37,999,__init__,none,127.0.0.1,http://localhost/page5

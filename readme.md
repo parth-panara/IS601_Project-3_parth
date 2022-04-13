@@ -1,14 +1,12 @@
 # Project Setup
 
-[![Production Workflow 1](https://github.com/parth-panara/IS601_Project-3_parth/actions/workflows/prod.yml/badge.svg)]
-(https://github.com/parth-panara/IS601_Project-3_parth/actions/workflows/prod.yml)
+[![Production Workflow 1](https://github.com/parth-panara/IS601_Project-3_parth/actions/workflows/prod.yml/badge.svg)](https://github.com/parth-panara/IS601_Project-3_parth/actions/workflows/prod.yml)
 
 
 * [Production Deployment](https://parth-prod.herokuapp.com/)
 
 
-[![Development Workflow 3.8](https://github.com/parth-panara/IS601_Project-3_parth/actions/workflows/dev.yml/badge.svg)]
-(https://github.com/parth-panara/IS601_Project-3_parth/actions/workflows/dev.yml)
+[![Development Workflow 3.8](https://github.com/parth-panara/IS601_Project-3_parth/actions/workflows/dev.yml/badge.svg)](https://github.com/parth-panara/IS601_Project-3_parth/actions/workflows/dev.yml)
 
 * [Developmental Deployment](https://parth-deve.herokuapp.com/)
 

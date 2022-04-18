@@ -190,3 +190,15 @@
 2022-04-18 08:28:24,420 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
 2022-04-18 08:28:24,420 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
 2022-04-18 08:28:24,422 [INFO] sqlalchemy.engine.Engine: COMMIT
+2022-04-18 08:40:05,775 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-18 08:40:05,775 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("songs")
+2022-04-18 08:40:05,775 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 08:40:05,779 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-18 08:40:05,779 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 08:40:05,781 [INFO] sqlalchemy.engine.Engine: COMMIT
+2022-04-18 21:41:36,783 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-18 21:41:36,799 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("songs")
+2022-04-18 21:41:36,800 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 21:41:36,805 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-18 21:41:36,805 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 21:41:36,807 [INFO] sqlalchemy.engine.Engine: COMMIT

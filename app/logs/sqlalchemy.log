@@ -166,3 +166,27 @@
 2022-04-18 07:24:49,350 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
 2022-04-18 07:24:49,350 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
 2022-04-18 07:24:49,352 [INFO] sqlalchemy.engine.Engine: COMMIT
+2022-04-18 07:40:34,359 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-18 07:40:34,360 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("songs")
+2022-04-18 07:40:34,360 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 07:40:34,363 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-18 07:40:34,363 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 07:40:34,368 [INFO] sqlalchemy.engine.Engine: COMMIT
+2022-04-18 08:19:27,693 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-18 08:19:27,693 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("songs")
+2022-04-18 08:19:27,693 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 08:19:27,696 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-18 08:19:27,696 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 08:19:27,699 [INFO] sqlalchemy.engine.Engine: COMMIT
+2022-04-18 08:24:04,191 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-18 08:24:04,191 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("songs")
+2022-04-18 08:24:04,192 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 08:24:04,194 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-18 08:24:04,194 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 08:24:04,196 [INFO] sqlalchemy.engine.Engine: COMMIT
+2022-04-18 08:28:24,415 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-18 08:28:24,416 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("songs")
+2022-04-18 08:28:24,416 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 08:28:24,420 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-18 08:28:24,420 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 08:28:24,422 [INFO] sqlalchemy.engine.Engine: COMMIT

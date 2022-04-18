@@ -1,4 +1,6 @@
-import os, pytest
+"""This test the Clicks"""
+
+import os
 
 from click.testing import CliRunner
 
@@ -6,7 +8,6 @@ from click.testing import CliRunner
 from app import create_log_folder, create_database
 
 runner = CliRunner()
-
 
 
 def test_create_log_folder():

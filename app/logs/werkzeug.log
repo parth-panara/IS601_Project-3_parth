@@ -45,3 +45,5 @@
 2022-04-18 05:11:49,674 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/click_test.py', reloading
 2022-04-18 06:24:53,534 [INFO] werkzeug: 172.26.0.1 - - [18/Apr/2022 06:24:53] "GET /about HTTP/1.1" 200 -
 2022-04-18 07:08:13,729 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/conftest.py', reloading
+2022-04-18 08:10:11,474 [INFO] werkzeug: 172.26.0.1 - - [18/Apr/2022 08:10:11] "GET / HTTP/1.1" 200 -
+2022-04-18 08:14:35,158 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/conftest.py', reloading

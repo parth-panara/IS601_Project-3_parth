@@ -1,8 +1,9 @@
 import logging
 from logging.config import dictConfig
-
+import time
+from logging.handlers import RotatingFileHandler
 import flask
-from flask import request, current_app
+from flask import request, g, current_app
 
 from app.logging_config.log_formatters import RequestFormatter
 
@@ -37,7 +38,7 @@ def configure_logging():
     log = logging.getLogger("myApp")
     log.info("My App Logger")
     log = logging.getLogger("myerrors")
-    log.info("THis broke")
+    log.info("This broke")
 
 
 

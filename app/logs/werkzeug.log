@@ -49,3 +49,4 @@
 2022-04-18 08:14:35,158 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/conftest.py', reloading
 2022-04-18 21:40:19,857 [INFO] werkzeug: 172.26.0.1 - - [18/Apr/2022 21:40:19] "GET / HTTP/1.1" 200 -
 2022-04-18 21:40:20,263 [INFO] werkzeug: 172.26.0.1 - - [18/Apr/2022 21:40:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-18 21:55:09,855 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/click_test.py', reloading

@@ -5,7 +5,7 @@ import os
 import pytest
 from app import create_app
 from app.logging_config import log_con
-from app.logging_config.log_formatters import RequestFormatter
+
 
 
 @pytest.fixture()
